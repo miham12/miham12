@@ -53,16 +53,7 @@
 </ol>
   
 
-> <a href="https://drive.google.com/drive/folders/1QOk5AAh6x7jK_yHgfKI2sUFYR7AWUi5u">Ссылка на проект</a>
-(ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-  
- <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
-<br> 
-
+> <a href="https://github.com/miham12/miham12/blob/main/transcripts_tribolium_castaneum/kursovaya1.pdf">Ссылка на проект</a>
 
 <p>Проект 5: Моделирование изменения балансов студентов</p> 
 <p>Что нужно было сделать:<p>
