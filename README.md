@@ -9,8 +9,9 @@
 ## Навыки и технологии
 - Языки программирования и библиотеки: ``Python``, ``R`` 
 - Системы управления базами данных: ``SQL``, ``PostgreSQL``
+- Препроцессинг данных и статистический анализ: ``Pandas``, ``NumPy``, ``SciPy``,``Statsmodels``,``tidyverse``
 - Средства визуализации данных: ``Matplotlib``, ``seaborn``, ``plotly``,``ggplot2``,``Tableau``
-- Инструменты для машинного обучения: ``scikit-learn``, ``TensorFlow``
+- Инструменты для машинного обучения: ``scikit-learn``, ``TensorFlow``, ``XGBoost / LightGBM / CatBoost``, ``PyTorch``
 
 
 
