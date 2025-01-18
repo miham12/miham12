@@ -1,4 +1,4 @@
-# Портфолио: ML engineer
+# Портфолио: Data Scientist
 
 ## Обо мне 
 
